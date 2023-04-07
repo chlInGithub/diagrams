@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T05:59:03.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="cDnM_dhrSCUAJhJTh9pS" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T09:29:11.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="goswU4G-cy8x2f9U34OF" version="21.1.2" type="github">
   <diagram id="maClWrOg7QgQ0Ohysuew" name="第 1 页">
-    <mxGraphModel dx="2784" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3067" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -801,27 +801,30 @@
         <mxCell id="aXx0eaZrn-a5CWFVxLRP-47" value="modalX" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-512" y="1882" width="44" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="bggskzBcEQQ1kDgBW_Y3-1" value="企业业绩决定档位和业绩佣金比例" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="bggskzBcEQQ1kDgBW_Y3-1" value="企业业绩决定档位和业绩佣金比例" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-382" y="840" width="208" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bggskzBcEQQ1kDgBW_Y3-2" value="不同产品不同期数配置不同产品费率" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="bggskzBcEQQ1kDgBW_Y3-2" value="不同产品不同期数配置不同产品费率" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-360" y="1030" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bggskzBcEQQ1kDgBW_Y3-3" value="A产品企业理财师佣金详情表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="bggskzBcEQQ1kDgBW_Y3-3" value="A产品企业理财师佣金详情表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="-522" y="1370" width="270" height="147" as="geometry" />
         </mxCell>
-        <mxCell id="bggskzBcEQQ1kDgBW_Y3-4" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=11;" vertex="1" parent="bggskzBcEQQ1kDgBW_Y3-3">
+        <mxCell id="bggskzBcEQQ1kDgBW_Y3-4" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=11;" parent="bggskzBcEQQ1kDgBW_Y3-3" vertex="1">
           <mxGeometry y="30" width="250" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="bggskzBcEQQ1kDgBW_Y3-5" value="tenant_id、理财师、客户、年度月份、&#xa;订单编号、佣金状态、订单主要信息、&#xa;产品费率相关、&#xa;企业佣金相关的各种比例、&#xa;理财师佣金相关的各种比例、&#xa;企业佣金、理财师佣金等" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontSize=12;rowspan=1;colspan=2;align=left;spacing=3;" vertex="1" parent="bggskzBcEQQ1kDgBW_Y3-4">
+        <mxCell id="bggskzBcEQQ1kDgBW_Y3-5" value="tenant_id、理财师、客户、年度月份、&#xa;订单编号、佣金状态、订单主要信息、&#xa;产品费率相关、&#xa;企业佣金相关的各种比例、&#xa;理财师佣金相关的各种比例、&#xa;企业佣金、理财师佣金等" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontSize=12;rowspan=1;colspan=2;align=left;spacing=3;" parent="bggskzBcEQQ1kDgBW_Y3-4" vertex="1">
           <mxGeometry width="250" height="117" as="geometry">
             <mxRectangle width="250" height="117" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bggskzBcEQQ1kDgBW_Y3-6" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=11;" vertex="1" visible="0" parent="bggskzBcEQQ1kDgBW_Y3-4">
+        <mxCell id="bggskzBcEQQ1kDgBW_Y3-6" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=11;" parent="bggskzBcEQQ1kDgBW_Y3-4" vertex="1" visible="0">
           <mxGeometry x="250" height="117" as="geometry">
             <mxRectangle height="117" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cDxeFZ2xgoq-FNaIeaOv-1" value="企业理财师佣金 = &lt;br&gt;认购金额 &lt;br&gt;*&amp;nbsp; (业绩比例 * 佣金系数&amp;nbsp; 这两个数与档位有关) &lt;br&gt;* 佣金基础费率(这与具体产品期限有关) &lt;br&gt;* 理财师分佣比例(企业配置)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-234" y="1360" width="274" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
