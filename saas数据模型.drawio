@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T10:33:56.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5t0_c1cUCuPdVA63m8XC" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T07:38:05.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="hNC75hjkb0cJa9Q5I66C" version="21.1.5" type="github">
   <diagram id="maClWrOg7QgQ0Ohysuew" name="第 1 页">
-    <mxGraphModel dx="2767" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2544" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -823,7 +823,7 @@
             <mxRectangle height="117" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cDxeFZ2xgoq-FNaIeaOv-1" value="企业理财师佣金 = &lt;br style=&quot;font-size: 14px;&quot;&gt;认购金额 &lt;br style=&quot;font-size: 14px;&quot;&gt;*&amp;nbsp; (业绩比例 * 佣金系数&amp;nbsp; 这两个数与档位有关) &lt;br style=&quot;font-size: 14px;&quot;&gt;* 佣金基础费率(这与具体产品期限有关) &lt;br style=&quot;font-size: 14px;&quot;&gt;* 理财师分佣比例(企业配置)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="cDxeFZ2xgoq-FNaIeaOv-1" value="企业理财师佣金 = &lt;br style=&quot;font-size: 14px;&quot;&gt;认购金额 &lt;br style=&quot;font-size: 14px;&quot;&gt;*&amp;nbsp; (业绩比例 * 佣金系数&amp;nbsp; 这两个数与档位有关) &lt;br style=&quot;font-size: 14px;&quot;&gt;* 佣金基础费率(这与具体产品期限有关) &lt;br style=&quot;font-size: 14px;&quot;&gt;* 理财师分佣比例(企业配置)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-234" y="1360" width="314" height="130" as="geometry" />
         </mxCell>
       </root>
