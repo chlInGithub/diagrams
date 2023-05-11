@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T10:16:26.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="tE_zyBmhT3D8Emnwv5rH" version="21.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-05-11T10:20:41.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="LCeMsqBBw63gncP73CoD" version="21.2.9" type="github" pages="4">
   <diagram id="maClWrOg7QgQ0Ohysuew" name="组织架构-角色-用户">
     <mxGraphModel dx="3272" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1462,6 +1462,34 @@
         <mxCell id="NG-C_tnsqCKaEhz0gS48-148" value="模板类型编号" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="NG-C_tnsqCKaEhz0gS48-146">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG-C_tnsqCKaEhz0gS48-150" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NG-C_tnsqCKaEhz0gS48-69" target="NG-C_tnsqCKaEhz0gS48-89">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="180" y="115" as="sourcePoint" />
+            <mxPoint x="601.4213562373095" y="705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG-C_tnsqCKaEhz0gS48-151" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NG-C_tnsqCKaEhz0gS48-97">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="920" y="655" as="sourcePoint" />
+            <mxPoint x="980" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG-C_tnsqCKaEhz0gS48-152" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NG-C_tnsqCKaEhz0gS48-114" target="NG-C_tnsqCKaEhz0gS48-127">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="160" y="980" as="sourcePoint" />
+            <mxPoint x="260" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG-C_tnsqCKaEhz0gS48-153" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NG-C_tnsqCKaEhz0gS48-111" target="NG-C_tnsqCKaEhz0gS48-92">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="160" y="900" as="sourcePoint" />
+            <mxPoint x="260" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="905" />
+              <mxPoint x="500" y="655" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
